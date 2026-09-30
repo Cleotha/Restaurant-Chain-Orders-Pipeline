@@ -1,0 +1,13 @@
+order_id,branch,item,category,quantity,unit_price,order_date,customer_name,payment_method
+1,Lagos,Jollof Rice,Food,2,2500,2024-01-05,alice johnson,Card
+2,Abuja,Suya,Food,5,1500,2024-01-06,BOB SMITH,Cash
+3,Lagos,Chapman,Drink,3,,2024-01-07,Charlie Brown,Card
+4,Ibadan,Fried Rice,Food,-1,2200,2024-01-08,Diana Prince,Cash
+5,Lagos,Zobo,Drink,4,800,2024-01-09,Eve Adams,Transfer
+6,Abuja,Jollof Rice,Food,2,2500,2024-01-10,Frank Lee,Card
+7,Lagos,Suya,Food,,1500,2024-01-11,Grace Kim,Cash
+8,Ibadan,Chapman,Drink,2,1200,,Henry Ford,Card
+9,Lagos,Zobo,Drink,3,800,2024-01-13,Iris West,Transfer
+10,Abuja,Fried Rice,Food,6,2200,2024-01-14,Jack Ryan,Card
+1,Lagos,Jollof Rice,Food,2,2500,2024-01-05,alice johnson,Card
+11,Lagos,,Food,3,3000,2024-01-16,,Cash
